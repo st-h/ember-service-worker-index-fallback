@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "broccoli-merge-trees": "^3.0.1",
-    "broccoli-plugin": "^2.1.0"
+    "broccoli-plugin": "^4.0.1"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
