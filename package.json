@@ -17,7 +17,7 @@
     "ember-service-worker-plugin"
   ],
   "dependencies": {
-    "broccoli-merge-trees": "^3.0.1",
+    "broccoli-merge-trees": "^4.1.0",
     "broccoli-plugin": "^2.1.0"
   },
   "ember-addon": {
